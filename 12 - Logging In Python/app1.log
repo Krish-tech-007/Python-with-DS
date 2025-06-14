@@ -1,0 +1,5 @@
+2025-06-05 22:30:37 - ArithmeticApp - DEBUG - Adding 10 and 5 gives 15
+2025-06-05 22:30:37 - ArithmeticApp - DEBUG - Subtracting 15 and 10 gives 5
+2025-06-05 22:30:37 - ArithmeticApp - DEBUG - Multiplying 2 and 3 gives 6
+2025-06-05 22:30:37 - ArithmeticApp - DEBUG - Dividing 2 by 2 gives 1.0
+2025-06-05 22:30:37 - ArithmeticApp - ERROR - Zero Division Error
